@@ -30,3 +30,8 @@ C:\Users\aleks\Desktop\SI_2021_lab1_193147>git add .
 C:\Users\aleks\Desktop\SI_2021_lab1_193147>git commit -m "Add some words"
 [master 67867d6] Add some words
  1 file changed, 4 insertions(+), 1 deletion(-)
+ 
+ 
+ 
+ Git merge iskoristiv za branch1 a za branch2 iskoristiv rebase i imase merge conflicts, go ostaviv kodot sto si bese vo master
+
